@@ -21,12 +21,6 @@ The hardware components that I used for this project are:
 - Breadboard
 - Jumper wires
 
-## Circuit Diagram
-
-The circuit diagram of the project is shown below:
-
-![Circuit diagram]
-
 ## Logic Design
 
 The logic design of the project is based on the following truth table and logic-flow chart:
@@ -47,7 +41,6 @@ The logic design of the project is based on the following truth table and logic-
 *countWhite only affect the behavior of motor when both L&R_sensors sense white
 ^ 150 for few milliseconds, then 0
 
-![Logic-flow chart]
 
 ## Code
 
