@@ -38,6 +38,7 @@ The logic design of the project is based on the following truth table and logic-
 | 1        | 0        | 1        | 1           | 1           | 200   | 200   | 0     | 1     |
 | 0        | 1        | 1        | 1           | 1           | 150/0^| 150/0^| 0     | 0     | 
 | 1        | 1        | 1        | 1           | 1           | 225   | 225   | 1     | 1     |
+
 *countWhite only affect the behavior of motor when both L&R_sensors sense white
 ^ 150 for few milliseconds, then 0
 
