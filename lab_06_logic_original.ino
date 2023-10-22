@@ -3,9 +3,7 @@
 
   To program the car tracking the white line on a dark mat
 
-  Group No. (number of your project box):  46
-  Group Member 1 (name & SID): Chan Wing Yu 20954312  
-  Group Member 2 (name & SID): Leung Wing Yan, Winnie 20963076
+  Group No. (number of your project box):  45
   
 */
 
