@@ -60,5 +60,5 @@ The second bug was related to the wheels that drive the car. I found that if I d
 
 The result of the project was that I successfully built a line follower robot car that could follow a white line on a black surface. The car could handle different scenarios on the mat, such as straight lines, curves, corners, T-lines, and finish lines. The car could also switch between left and right turns when encountering a horizontal white line by using a variable called countWhite. The car could also stop or change direction when reaching a finish line by using a delay() function.
 
-The conclusion of the project was that I learned a lot from this project. I learned how to use PWM to control the speed and direction of a DC motor, how to use infrared sensors to detect a line on a mat, how to use an inverter and an H-bridge to switch the polarity of the voltage applied to the motor terminals, how to write simple and precise code for different scenarios on
+The conclusion of the project was that I learned a lot from this project. I learned how to use PWM to control the speed and direction of a DC motor, how to use infrared sensors to detect a line on a mat, how to use an inverter and an H-bridge to switch the polarity of the voltage applied to the motor terminals, how to write simple and precise code for different scenarios.
 
